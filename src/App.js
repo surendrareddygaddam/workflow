@@ -22,6 +22,7 @@ const App = () => {
       <h1>bug report added</h1>
       <h1>added from github</h1>
       <h1>sound has been added</h1>
+      <h1>hello world new surendra</h1>
     </div>
   )
 }
