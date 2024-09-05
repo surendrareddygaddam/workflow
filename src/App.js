@@ -19,6 +19,7 @@ const App = () => {
       <h1>New branch added</h1>
       <h1>surdnra branch has been added</h1>
       <h1>last branch added</h1>
+      <h1>bug report added</h1>
     </div>
   )
 }
