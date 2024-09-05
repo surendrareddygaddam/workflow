@@ -16,6 +16,7 @@ const App = () => {
       {JSON.stringify(data)}
       <h1>added yb the surendr the branch new by self</h1>
       <h1>Hello world </h1>
+      <h1>New branch added</h1>
     </div>
   )
 }
