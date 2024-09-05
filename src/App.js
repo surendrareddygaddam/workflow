@@ -7,7 +7,7 @@ const App = () => {
     <div>
       <h1>Git main branch</h1>
       <h2>Hello some changes has been added to the git hub branch Added</h2>
-
+      <h3>Added by the git repository</h3>
     </div>
   )
 }
